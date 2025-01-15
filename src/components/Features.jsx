@@ -130,7 +130,7 @@ const Features = () => (
             src="videos/feature-2.mp4"
             title={
               <>
-                A<b>n</b>ima
+                A<b>n</b>i<b>m</b>e
               </>
             }
             description="I'm a big anime fan, with a special love for One Piece and Bleach. These series never fail to inspire me with their epic stories and characters, and I’m always excited to dive into new episodes or rewatch my favorite arcs!"
