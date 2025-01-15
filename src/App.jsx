@@ -16,9 +16,6 @@ const App = () => {
       <Story />
       <Contact />
       <Footer />
-
-      <Analytics/>
-      <SpeedInsights/>
     </main>
   )
 }
