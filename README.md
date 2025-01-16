@@ -1,5 +1,7 @@
 # My Portfolio Website 🌐
 
+![image](./preview.png)
+
 Welcome to my **Portfolio Website** repository! This project showcases my personal and professional work through a modern and responsive design built with **React**, **Vite**, **TailwindCSS**, and **GSAP**. 💻✨
 
 ## 🛠️ Technologies Used
